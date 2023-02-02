@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(197, 211, 223, 0.672);
+}
+.container{
+    text-align: center;
+}
+.carouselitem{
+    cursor: pointer;
+}
+.imgmain{
+    width: 460px;
+    height: 450px;
+}
